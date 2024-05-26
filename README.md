@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates my expertise in database development through the implementation of a system for managing files using extendible hashing. The assignment focused on understanding the internal workings of database systems, particularly at the block and record management levels. This project was completed as part of the course "K18 - Υλοποίηση Συστημάτων Βάσεων Δεδομένων" during the Winter Semester of 2021-2022.
+Project in database development with implementation of a system for managing files using extendible hashing. The assignment focused on understanding the internal workings of database systems, particularly at the block and record management levels. This project was completed as part of the course "K18 - Υλοποίηση Συστημάτων Βάσεων Δεδομένων" during the Winter Semester of 2021-2022.
 
 ## Key Technical Achievements
 
